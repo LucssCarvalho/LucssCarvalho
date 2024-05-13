@@ -6,6 +6,5 @@ Sou um estudante de desenvolvimento de software que adora a vastidão da tecnolo
 
 
 <a href="https://github.com/LucssCarvalho">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=LucssCarvalho&theme=algolia&show_icons=true"/>
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LucssCarvalho&layout=compact&theme=algolia"/>
 <div>
